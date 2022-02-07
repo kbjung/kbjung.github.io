@@ -54,7 +54,7 @@ menu:
     url:               /example1/
   - title:             Example2
     url:               /example2/
-  - title:             SubCategory
+  - title:             subcat
     url:               /subcat/
     submenu:
       - title:        Test1
