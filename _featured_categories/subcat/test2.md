@@ -1,8 +1,8 @@
 ---
 layout: list
 category: subcat
-bigtitle: Test1
-slug: test1
+bigtitle: Test2
+slug: test2
 description: >
   하위메뉴 테스트2
 
