@@ -11,8 +11,7 @@ description: >
   Version 9.1 provides minor design changes, new features, and closes multiple issues.
 invert_sidebar: true
 categories:
-  - subcat
-  - test1
+  - example2
 ---
 
 # Subcat-Test1-post1
