@@ -38,27 +38,27 @@ http://www.tipue.com/search
 #tipue_search_input
 {
      color: #333;
-     max-width: 150px;		// 최대 넓이 줄이고
-     max-height: 20px;		// 높이 지정
-     padding: 15px;			// 패딩 줄이기
-     border: 2px solid #626591;	// 굵게, 테두리는 색 바꾸기
+     max-width: 150px;
+     max-height: 20px;
+     padding: 15px;
+     border: 2px solid #626591;
      border-radius: 0;
      -moz-appearance: none;
      -webkit-appearance: none;
      box-shadow: none;
      outline: 0;
      margin: 0;
-     text-align: center;		// 텍스트 중간에 오게하기
+     text-align: center;
 }
 
-// 돋보기 아이콘 위치 수정
+/* 돋보기 아이콘 위치 수정 */
 .tipue_search_icon
 {
      width: 19px;
      height: 19px;
      margin-bottom: 1rem;
 }
-// 검색창 위치 조정
+/* 검색창 위치 조정 */
 .tipue_search_left
 {
      float: left;
