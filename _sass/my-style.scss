@@ -201,3 +201,8 @@ under {
 .submenu.menu-wrapper.hide{
   display: none;
 }
+
+// 조회수 뒤에 링크 안보이게 강제 지정
+a::after {
+  display: none !important;
+}
